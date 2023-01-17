@@ -9,6 +9,10 @@ body{
   /* font-family: 'Merriweather', serif; */
 }
 
+@media screen {
+  
+}
+
 h1{
   margin: 50px auto 0 auto;
   font-family: 'Courier Prime', monospace;
@@ -117,7 +121,7 @@ a:hover {
 }
 
 .hello {
-  margin: 200px auto auto 300px;
+  margin: 12.50rem auto auto 18.75rem;
   width: 31%;
   text-align: left;
 }
@@ -125,7 +129,7 @@ a:hover {
 .profile-description {
   color: #40514E;
   width: 29%;
-  margin: auto auto auto 300px;
+  margin: auto auto auto 18.75rem;
   text-align: justify;
   font-family: 'Courier Prime', monospace;
 }
@@ -133,9 +137,9 @@ a:hover {
 .profile-felipe {
   position: relative;
   float: right;
-  margin: 100px 300px auto auto;
-  width: 450px;
-  height: 450px;
+  margin: 6.25rem 18.75rem auto auto;
+  width: 25%;
+  height: 25%;
 }
 
 .contact-msg {
@@ -174,8 +178,9 @@ a:hover {
 
 /*<img class="icons-p" src="icons/java.png" alt="java">
   <img class="icons-p" src="icons/php.png" alt="php">
-  <img class="icons-p" src="icons/.png" alt="mysql">
+  <img class="icons-p" src="icons/mysql.png" alt="mysql">
   <img class="icons-p" src="icons/mongodb.png" alt="mongodb">
   <img class="icons-p" src="icons/css.png" alt="css">
   <img class="icons-p" src="icons/html.png" alt="html">
+  <img class="icons-p" src="icons/jscript.png" alt="javascript">
   */
